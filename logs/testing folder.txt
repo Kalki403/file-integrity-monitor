@@ -1,2 +1,10 @@
 [2025-04-06 09:58:14] Changes detected: {'added': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\testing folder.txt'], 'deleted': [], 'modified': []}
 [2025-04-06 09:58:49] Monitoring stopped.
+[2025-04-06 12:00:01] Log directory selected: C:\Users\ADMIN\Desktop\teju\file_monitor\logs
+[2025-04-06 12:00:03] Monitoring started.
+[2025-04-06 12:00:07] Monitoring stopped.
+[2025-04-06 12:00:13] Changes detected: {'added': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\test 1.txt', 'C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\testing folder.txt'], 'deleted': [], 'modified': []}
+[2025-04-06 12:07:39] Log directory selected: C:\Users\ADMIN\Desktop\teju\file_monitor\logs
+[2025-04-06 12:07:41] Monitoring started.
+[2025-04-06 12:07:46] Monitoring stopped.
+[2025-04-06 12:07:51] Changes detected: {'added': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\test 1.txt', 'C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\testing folder.txt'], 'deleted': [], 'modified': []}
