@@ -1,0 +1,9 @@
+[2025-04-06 09:39:37] Directory selected: C:\Users\ADMIN\Desktop\teju\testing folder
+[2025-04-06 09:39:43] Monitoring started.
+[2025-04-06 09:39:53] Changes detected: {'added': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\txt 2.txt'], 'deleted': [], 'modified': []}
+[2025-04-06 09:40:03] Changes detected: {'added': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\New Text Document.txt'], 'deleted': [], 'modified': []}
+[2025-04-06 09:40:13] Changes detected: {'added': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\bb.txt'], 'deleted': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\New Text Document.txt'], 'modified': []}
+[2025-04-06 09:40:33] Changes detected: {'added': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\test 3.txt'], 'deleted': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\bb.txt'], 'modified': []}
+[2025-04-06 09:40:53] Changes detected: {'added': [], 'deleted': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\txt 2.txt'], 'modified': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\test 3.txt']}
+[2025-04-06 09:41:14] Changes detected: {'added': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\test 1.txt'], 'deleted': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\test 3.txt'], 'modified': []}
+[2025-04-06 09:41:15] Monitoring stopped.

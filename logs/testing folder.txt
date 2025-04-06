@@ -1,0 +1,2 @@
+[2025-04-06 09:58:14] Changes detected: {'added': ['C:\\Users\\ADMIN\\Desktop\\teju\\testing folder\\testing folder.txt'], 'deleted': [], 'modified': []}
+[2025-04-06 09:58:49] Monitoring stopped.
